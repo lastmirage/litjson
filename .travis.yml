@@ -1,0 +1,4 @@
+language: csharp
+solution: build/vs2013/litJSON/litJSON.sln
+mono:
+    - 2.10.8
